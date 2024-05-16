@@ -551,7 +551,9 @@
                         <var name="t_init" packages="met_stage_out"/>
                         <var name="qv_init" packages="met_stage_out"/>
                         <var_array name="scalars" packages="met_stage_out"/>
-                        <var name="u" packages="met_stage_out"/>
+			<var name="u" packages="met_stage_out"/>
+			<var name="uReconstructZonal" packages="met_stage_out"/>
+                        <var name="uReconstructMeridional" packages="met_stage_out"/>
                         <var name="w" packages="met_stage_out"/>
                         <var name="dz" packages="met_stage_out"/>
                         <var name="dzs" packages="met_stage_out"/>

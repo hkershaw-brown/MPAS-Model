@@ -583,6 +583,8 @@
 			<var name="xtime"/>
 			<var name="Time"/>
 			<var name="u"/>
+			<var name="uReconstructZonal"/>
+			<var name="uReconstructMeridional"/>
 			<var name="w"/>
 			<var name="rho_zz"/>
 			<var name="theta_m"/>
